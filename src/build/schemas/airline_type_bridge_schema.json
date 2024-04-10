@@ -1,0 +1,6 @@
+[
+    { "name": "airline_type_composite", "type": "STRING", "mode": "REQUIRED", "policyTags": ["primary_key"] },
+    { "name": "airline_id", "type": "STRING" },
+    { "name": "airline_type_id", "type": "STRING" }
+
+]
