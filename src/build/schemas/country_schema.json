@@ -1,0 +1,5 @@
+[
+    { "name": "iso_country_code", "type": "STRING", "mode": "REQUIRED", "policyTags": ["primary_key"] },
+    { "name": "country_name", "type": "STRING" }
+
+]

@@ -1,0 +1,18 @@
+[
+    { "name": "airline_id", "type": "STRING", "mode": "REQUIRED", "policyTags": ["primary_key"] },
+    { "name": "airline_iata_code", "type": "STRING" },
+    { "name": "airline_iata_prefix_accounting", "type": "STRING" },
+    { "name": "airline_iata_accounting", "type": "STRING" },
+    { "name": "airline_icao_code", "type": "STRING" },
+    { "name": "airline_name", "type": "STRING" },
+    { "name": "airline_hub_code", "type": "STRING" },
+    { "name": "airline_call_sign", "type": "STRING" },
+    { "name": "iso_country_code", "type": "STRING" },
+    { "name": "country_name", "type": "STRING" },
+    { "name": "airline_slug", "type": "STRING" },
+    { "name": "airline_status", "type": "STRING" },
+    { "name": "airline_founding_year", "type": "STRING" },
+    { "name": "airline_size", "type": "INT64" },
+    { "name": "airline_fleet_age", "type": "INT64" }
+]
+
