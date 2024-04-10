@@ -7,7 +7,7 @@ def get_flight():
 
 
     params = {
-    'access_key': '8c9dd68d8b111a59f066ebe119c95b42'
+    'access_key': 'YOUR ACCESS KEY'
     }
 
     api_result = requests.get('https://api.aviationstack.com/v1/flights', params)
