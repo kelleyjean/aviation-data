@@ -23,7 +23,7 @@ def get_flight():
 def get_flights(flight_date):
     # Replace 'YOUR_ACCESS_KEY' with your actual access key
     params = {
-        'access_key': '8c9dd68d8b111a59f066ebe119c95b42',
+        'access_key': access_key,
         'flight_date': flight_date
     }
 
